@@ -1,0 +1,7 @@
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\bin\Debug\Simple_Console_Login.exe.config
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\bin\Debug\Simple_Console_Login.exe
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\bin\Debug\Simple_Console_Login.pdb
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\obj\Debug\Simple_Console_Login.csprojAssemblyReference.cache
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\obj\Debug\Simple_Console_Login.csproj.CoreCompileInputs.cache
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\obj\Debug\Simple_Console_Login.exe
+C:\Users\Domonic\Desktop\My_Programs\Simple_Console_Login\Simple_Console_Login\obj\Debug\Simple_Console_Login.pdb
